@@ -6,13 +6,13 @@ export default defineConfig({
   description: 'de Pinia',
   base: '/proven-pinia-patterns/',
   themeConfig: {
-    logo: '/mylogo.png',
+    logo: '/caribestic.png',
     siteTitle: 'Patrones de Pinia',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Comenzar', link: '/intro' },
-      { text: 'ecanquiz', link: 'https://ecanquiz.github.io/' },      
+      { text: 'CaribesTIC', link: 'https://caribestic.github.io/' },      
     ],
     sidebar: [{
       text: 'Comenzar',   // required
@@ -32,7 +32,7 @@ export default defineConfig({
       ]
     }],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ecanquiz/proven-pinia-patterns' }
+      { icon: 'github', link: 'https://github.com/CaribesTIC/proven-pinia-patterns' }
     ]
   }
 })

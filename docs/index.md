@@ -14,8 +14,8 @@ hero:
       text: Comenzar
       link: /intro
     - theme: alt
-      text: ecanquiz
-      link: https://ecanquiz.github.io/
+      text: CaribesTIC
+      link: https://caribestic.github.io/
 
 features:
   - title: Patrones Probados de Pinia
